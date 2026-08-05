@@ -218,3 +218,14 @@ details[open] summary::after {
 details .script-box {
     margin-top: 12px;
 }
+.audio-card{
+    background:#eef4fb;
+    border-radius:16px;
+    padding:18px;
+    margin-top:12px;
+}
+
+.audio-card audio{
+    width:100%;
+    display:block;
+}
